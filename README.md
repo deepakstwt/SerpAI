@@ -135,6 +135,7 @@ Make sure you have the following installed locally:
 *   [Node.js](https://nodejs.org/) (v18.x or higher)
 *   [MongoDB](https://www.mongodb.com/) (local community instance or Atlas cloud cluster)
 *   Google Gemini API Key
+*   Browserbase API Key
 
 ---
 
@@ -158,6 +159,7 @@ PORT=5000
 MONGO_URI=mongodb://localhost:27017/serpai  # or your Atlas URI
 JWT_SECRET=your_super_secure_jwt_secret
 GEMINI_API_KEY=your_google_gemini_api_key
+BROWSERBASE_API_KEY=your_browserbase_api_key
 CLIENT_URL=http://localhost:5173
 ```
 
