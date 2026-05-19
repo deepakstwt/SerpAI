@@ -18,6 +18,61 @@ This isn't just an audit tool; it's a **predictive growth engine** designed to s
 
 ---
 
+## 📸 App Interface & Visual Walkthrough
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>1. Welcome & Landing Portal</b><br/>
+      <img src="https://github.com/deepakstwt/SerpAI/raw/main/client/public/screenshot-1.jpeg" width="100%" alt="SerpAI Landing Page" />
+      <p>Clean, high-converting homepage demonstrating core capabilities.</p>
+    </td>
+    <td width="50%" align="center">
+      <b>2. Secure Access Gateway</b><br/>
+      <img src="https://github.com/deepakstwt/SerpAI/raw/main/client/public/screenshot-2.jpeg" width="100%" alt="SerpAI Secure Auth" />
+      <p>Smooth, secure JWT-based user authentication screen.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>3. Dynamic Analytical Dashboard</b><br/>
+      <img src="https://github.com/deepakstwt/SerpAI/raw/main/client/public/screenshot-3.jpeg" width="100%" alt="SerpAI Dashboard" />
+      <p>Aggregated overview of scanned websites, dynamic scores, and tracking alerts.</p>
+    </td>
+    <td width="50%" align="center">
+      <b>4. Deep SEO Domain Auditor</b><br/>
+      <img src="https://github.com/deepakstwt/SerpAI/raw/main/client/public/screenshot-4.jpeg" width="100%" alt="SerpAI Domain Auditor" />
+      <p>Trigger instant audits by typing the domain and analyzing live metadata.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>5. Auditing Score Gauges</b><br/>
+      <img src="https://github.com/deepakstwt/SerpAI/raw/main/client/public/screenshot-5.jpeg" width="100%" alt="SerpAI Score Gauges" />
+      <p>Interactive score meters tracking performance, SEO, best practices, and mobile UX.</p>
+    </td>
+    <td width="50%" align="center">
+      <b>6. AI Actionable Diagnostics</b><br/>
+      <img src="https://github.com/deepakstwt/SerpAI/raw/main/client/public/screenshot-6.jpeg" width="100%" alt="SerpAI AI Diagnostics" />
+      <p>Google Gemini categorizes site issues (Critical to Low) with clear inline fixes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>7. Keyword Rank Monitor</b><br/>
+      <img src="https://github.com/deepakstwt/SerpAI/raw/main/client/public/screenshot-7.jpeg" width="100%" alt="SerpAI Keyword Monitor" />
+      <p>Active dashboard tracking position movements for targeted search keywords.</p>
+    </td>
+    <td width="50%" align="center">
+      <b>8. Historic Performance Analytics</b><br/>
+      <img src="https://github.com/deepakstwt/SerpAI/raw/main/client/public/screenshot-8.jpeg" width="100%" alt="SerpAI Rank History" />
+      <p>Historical chart illustrating ranking growth and volatility trends over time.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Key Features & Architectural Highlights
 
 ### 🔍 Autonomous Scraper & Performance Analyzer
@@ -70,61 +125,6 @@ SerpAI/
 │   ├── cron/            # Scheduled background processes
 │   └── server.js        # Main system entry point
 ```
-
----
-
-## 📸 App Interface & Visual Walkthrough
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <b>1. Welcome & Landing Portal</b><br/>
-      <img src="client/public/screenshot-1.jpeg" width="100%" alt="SerpAI Landing Page" />
-      <p>Clean, high-converting homepage demonstrating core capabilities.</p>
-    </td>
-    <td width="50%" align="center">
-      <b>2. Secure Access Gateway</b><br/>
-      <img src="client/public/screenshot-2.jpeg" width="100%" alt="SerpAI Secure Auth" />
-      <p>Smooth, secure JWT-based user authentication screen.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>3. Dynamic Analytical Dashboard</b><br/>
-      <img src="client/public/screenshot-3.jpeg" width="100%" alt="SerpAI Dashboard" />
-      <p>Aggregated overview of scanned websites, dynamic scores, and tracking alerts.</p>
-    </td>
-    <td width="50%" align="center">
-      <b>4. Deep SEO Domain Auditor</b><br/>
-      <img src="client/public/screenshot-4.jpeg" width="100%" alt="SerpAI Domain Auditor" />
-      <p>Trigger instant audits by typing the domain and analyzing live metadata.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>5. Auditing Score Gauges</b><br/>
-      <img src="client/public/screenshot-5.jpeg" width="100%" alt="SerpAI Score Gauges" />
-      <p>Interactive score meters tracking performance, SEO, best practices, and mobile UX.</p>
-    </td>
-    <td width="50%" align="center">
-      <b>6. AI Actionable Diagnostics</b><br/>
-      <img src="client/public/screenshot-6.jpeg" width="100%" alt="SerpAI AI Diagnostics" />
-      <p>Google Gemini categorizes site issues (Critical to Low) with clear inline fixes.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>7. Keyword Rank Monitor</b><br/>
-      <img src="client/public/screenshot-7.jpeg" width="100%" alt="SerpAI Keyword Monitor" />
-      <p>Active dashboard tracking position movements for targeted search keywords.</p>
-    </td>
-    <td width="50%" align="center">
-      <b>8. Historic Performance Analytics</b><br/>
-      <img src="client/public/screenshot-8.jpeg" width="100%" alt="SerpAI Rank History" />
-      <p>Historical chart illustrating ranking growth and volatility trends over time.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
